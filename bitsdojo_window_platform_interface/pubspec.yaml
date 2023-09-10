@@ -9,10 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.9.0
-  plugin_platform_interface: #^2.0.0
-    git: 
-        url: https://github.com/Gorniv/bitsdojo_window
-        path: bitsdojo_window_platform_interface
+  plugin_platform_interface: ^2.0.0
 
 dev_dependencies:
   flutter_test:
